@@ -1,1 +1,1 @@
-# Deep Learning-Classifier-Face-Verification-
+# Deep Learning Classifier Face Detection and Verification-
